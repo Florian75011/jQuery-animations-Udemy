@@ -1,4 +1,4 @@
-// Animation d'ouverture et de fermeture, départ, boutons et activations de boutons
+// // Animation d'ouverture et de fermeture, départ, boutons et activations de boutons
 
 $(function () {
   // // Sélection de tous les li enfants + fait la moyenne de tous
